@@ -1,0 +1,47 @@
+body{
+    background-color: #2a9d8f;
+    text-align: center;
+}
+
+#name{
+    color:#e9c46a ;
+    text-align: center;
+    text-shadow: 5px 4px 10px black;
+}
+
+#budalk_noodles_image{
+    width: 250px;
+    height: 250px;
+}
+
+p{
+    font-size: 20px;
+}
+
+button{
+    width: 200px;
+    height: 49px;
+    border-radius: 15px;
+    font-size: 18px;
+    padding: 5px;
+    background-color:#102C57;
+    color: azure;
+    
+}
+#button2{
+    width: 200px;
+    height: 49px;
+    border-radius: 15px;
+    font-size: 18px;
+    padding: 5px;
+    background-color:#102C57;
+    color: azure;
+}
+#Egg-fried-rice{
+    width: 550px;
+}
+h3{
+    text-decoration: underline; 
+    margin-top: 45px;
+    font: size 30px;
+}
